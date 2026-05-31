@@ -88,4 +88,4 @@
 
 ## 🔗 相关教程
 - [用AI一键生成PPT](/tutorials/productivity/ai-ppt)
-- [用Claude写技术文档](/tutorials/coding/claude-tech-doc)
+

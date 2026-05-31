@@ -4,7 +4,7 @@ export default defineConfig({
   lang: 'zh-CN',
   title: 'AI 实战教程',
   description: '手把手教你用 AI 解决实际问题',
-  base: '/ai-tutorials/',
+  base: '/',
 
   head: [
     ['meta', { property: 'og:title', content: 'AI 实战教程' }],
@@ -95,7 +95,7 @@ export default defineConfig({
 
   build: {
     sitemap: {
-      hostname: 'https://guaishoulin.github.io/ai-tutorials/'
+      hostname: 'https://ai-tutorials.pages.dev'
     }
   }
 })

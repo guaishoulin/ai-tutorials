@@ -125,4 +125,4 @@ npm test
 
 ## 🔗 相关教程
 - [用Claude Code帮你debug代码](/tutorials/coding/claude-debug)
-- [用AI生成PRD文档](/tutorials/writing/ai-prd)
+
