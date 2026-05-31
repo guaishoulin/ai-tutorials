@@ -38,7 +38,9 @@ export default defineConfig({
               { text: '具身智能全面入门', link: '/tutorials/knowledge/embodied-ai-intro' },
               { text: '具身智能技术详解与实战', link: '/tutorials/knowledge/embodied-ai-dev' },
               { text: 'DeepSeek V4 实战教程', link: '/tutorials/knowledge/deepseek-v4' },
-              { text: '国产算力与低比特大模型', link: '/tutorials/knowledge/domestic-chips-low-bit' }
+              { text: '国产算力与低比特大模型', link: '/tutorials/knowledge/domestic-chips-low-bit' },
+              { text: 'MCP 协议完全入门', link: '/tutorials/knowledge/mcp' },
+              { text: 'GLM-5V 视觉即代码实战', link: '/tutorials/knowledge/glm5v-vision-coding' }
             ]
           },
           {
