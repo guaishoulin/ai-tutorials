@@ -40,7 +40,11 @@ export default defineConfig({
               { text: 'DeepSeek V4 实战教程', link: '/tutorials/knowledge/deepseek-v4' },
               { text: '国产算力与低比特大模型', link: '/tutorials/knowledge/domestic-chips-low-bit' },
               { text: 'MCP 协议完全入门', link: '/tutorials/knowledge/mcp' },
-              { text: 'GLM-5V 视觉即代码实战', link: '/tutorials/knowledge/glm5v-vision-coding' }
+              { text: 'GLM-5V-Turbo 视觉即代码实战', link: '/tutorials/knowledge/glm5v-vision-coding' },
+              { text: '2026年AI技术趋势教程', link: '/tutorials/knowledge/ai-tech-trends' },
+              { text: 'NVIDIA Spectrum-X 硅光技术', link: '/tutorials/knowledge/nvidia-spectrum-x' },
+              { text: 'Agentic AI 智能体完全入门', link: '/tutorials/knowledge/agentic-ai-intro' },
+              { text: 'AI 热门话题（6月第2周）', link: '/tutorials/knowledge/ai-hot-topics' }
             ]
           },
           {

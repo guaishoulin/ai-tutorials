@@ -96,6 +96,7 @@ mcp = FastMCP("WeatherServer")
 @mcp.tool()
 def get_weather(city: str) -> dict:
     """获取城市天气信息"""
+    # 实际项目中替换为真实天气 API
     mock_data = {
         "北京": {"temp": "28°C", "weather": "晴", "humidity": "45%"},
         "上海": {"temp": "32°C", "weather": "多云", "humidity": "72%"},
@@ -208,6 +209,7 @@ mcp = FastMCP("RemoteServer")
 @mcp.tool()
 def search_documents(query: str) -> list[str]:
     """搜索文档库"""
+    # 你的文档搜索逻辑
     return ["doc1.pdf", "doc2.pdf"]
 
 # 启动为 HTTP Server

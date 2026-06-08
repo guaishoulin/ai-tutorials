@@ -21,6 +21,12 @@
 - [具身智能技术详解与实战](/tutorials/knowledge/embodied-ai-dev) - 西工大最新突破与开发指南
 - [DeepSeek V4 实战教程](/tutorials/knowledge/deepseek-v4) - 百万Token上下文开发新范式
 - [国产算力与低比特大模型](/tutorials/knowledge/domestic-chips-low-bit) - 华为昇腾平台实战
+- [MCP 协议完全入门](/tutorials/knowledge/mcp) - AI Agent 生态核心标准协议
+- [GLM-5V-Turbo 视觉即代码实战](/tutorials/knowledge/glm5v-vision-coding) - 设计稿一键转可运行代码
+- [2026年AI技术趋势教程](/tutorials/knowledge/ai-tech-trends) - 十大关键技术方向详解
+- [NVIDIA Spectrum-X 硅光技术](/tutorials/knowledge/nvidia-spectrum-x) - CPO光电共封装在AI数据中心的应用
+- [Agentic AI 智能体完全入门](/tutorials/knowledge/agentic-ai-intro) - 黄仁勋宣布Agentic AI时代到来
+- [AI 热门话题教程（6月第2周）](/tutorials/knowledge/ai-hot-topics) - Vera Rubin/OpenAI无APP手机/Anthropic安全警告
 
 ### 💻 编程开发
 
