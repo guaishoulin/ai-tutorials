@@ -6,11 +6,14 @@
     "dev": "vitepress dev docs",
     "build": "vitepress build docs",
     "docs:build": "vitepress build docs",
-    "serve": "vitepress serve docs"
+    "serve": "vitepress serve docs",
+    "deploy": "npm run build && wrangler deploy",
+    "preview": "npm run build && wrangler dev"
   },
   "devDependencies": {
+    "vitepress": "1.0.0-alpha.28",
     "vue": "3.2.44",
-    "vitepress": "1.0.0-alpha.28"
+    "wrangler": "^4.98.0"
   },
   "pnpm": {
     "peerDependencyRules": {
