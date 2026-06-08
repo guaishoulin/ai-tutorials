@@ -9,3 +9,10 @@ deploy.js
 make_zip.py
 _tmp_body.json
 *.log
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
+.env*
+!.env.example
